@@ -1,7 +1,7 @@
 # FBPREMIUM
 # PERINTAH 
 
-> pkg update&&pkg upgrade
+> (pkg update&&pkg upgrade)
 > pkg install python 
 > pkg install git 
 > pip install requests
